@@ -13,7 +13,6 @@ console.log(btn2);
 console.log(ul);
 console.log(story);
 
-
 function addItem (){
    var newLi = document.createElement("li");
    newLi.innerHTML = "Новая задача";
